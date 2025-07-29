@@ -1,0 +1,14 @@
+{
+    "api_key": "AIzaSyCX5SsuvlMiWSzdoBAkviCIfu8V-Be1ou4",
+    "default_models": [
+        "gemini-embedding-exp",
+        "gemini-1.5-pro",
+        "gemini-1.5-flash-8b",
+        "gemini-1.5-flash",
+        "gemini-2.0-flash-lite",
+        "gemini-2.0-flash",
+        "gemini-2.5-pro-preview-05-06",
+        "gemini-2.5-flash-preview-04-17"
+    ],
+    "custom_models": []
+}

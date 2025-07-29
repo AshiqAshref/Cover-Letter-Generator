@@ -1,0 +1,21 @@
+
+# Replace this with your personal information and experience
+Name: John Doe
+Email: john.doe@email.com
+Phone: (123) 456-7890
+
+Skills:
+- Python programming (5 years)
+- Data analysis and visualization
+- Machine learning and AI
+- Project management
+- Team leadership
+
+Work Experience:
+- Software Engineer at Tech Corp (2020-Present)
+- Data Analyst at Data Insights Inc. (2018-2020)
+- Junior Developer at Startup XYZ (2016-2018)
+
+Education:
+- Bachelor of Computer Science, University State (2016)
+
